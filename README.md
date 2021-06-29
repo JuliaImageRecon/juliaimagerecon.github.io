@@ -1,2 +1,4 @@
 # juliaimagerecon.github.io
-Documentation for JuliaImageRecon suite
+
+Documentation for
+[JuliaImageRecon](https://github.com/JuliaImageRecon)

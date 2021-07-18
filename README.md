@@ -12,3 +12,4 @@ For now, see the documentation
 for the individual packages:
 
 * [ImageGeoms.jl](https://github.com/juliaimagerecon/ImageGeoms.jl)
+* [ImagePhantoms.jl](https://github.com/juliaimagerecon/ImagePhantoms.jl)

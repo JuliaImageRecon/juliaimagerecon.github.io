@@ -1,5 +1,7 @@
 # juliaimagerecon.github.io
 
+https://github.com/JuliaImageRecon/juliaimagerecon.github.io
+
 Documentation for
 [JuliaImageRecon](https://github.com/JuliaImageRecon),
 a suite of tools for image reconstruction
